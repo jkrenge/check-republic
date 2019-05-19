@@ -1,1 +1,1 @@
-# check-republic
+➡️ https://github.com/parcelLab/check-republic
